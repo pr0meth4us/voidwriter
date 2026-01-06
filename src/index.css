@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Custom scrollbar for the void aesthetic */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 3px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #09090b;
+}

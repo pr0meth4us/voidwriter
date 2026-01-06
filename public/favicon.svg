@@ -1,0 +1,13 @@
+<svg width="200" height="200" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- The Frame: Fractured and desaturated -->
+    <path d="M10 10H40V14H14V86H86V60H90V90H10V10Z" fill="#3f3f46" />
+
+    <!-- The Fragment: A singular, high-contrast block -->
+    <rect x="60" y="10" width="30" height="30" fill="#e4e4e7" />
+
+    <!-- The Signal: Monospace-inspired cursor line -->
+    <rect x="25" y="45" width="2" height="10" fill="#71717a" />
+    <rect x="30" y="45" width="2" height="10" fill="#71717a" />
+
+    <!-- Central Void (Implicit) -->
+</svg>
